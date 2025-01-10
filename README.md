@@ -9,7 +9,7 @@ Each characteristic includes 2 opposing statements: Left <-> Right.
 [Communication](#communication) | [Criticism](#criticism) | [Persuasion](#persuasion) | [Leadership](#leadership) | [Decision-Making](#decision-making) | [Trust](#trust) | [Disagreement](#disagreement) | [Time Management](#time-management)
 
 ### Communication
-Low context <-> High context
+Low-context <-> High-context
 
 #### Low-context
 Good communication is precise, straightforward, and clear.  
