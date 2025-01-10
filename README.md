@@ -1,6 +1,8 @@
 # Team Culture Map
 
-[Scale](#scale) | [Indicators](#indicators)
+[Characteristics](#characteristics) | [Scale](#scale)
+
+## Characteristics
 
 ## Scale
 
@@ -9,5 +11,3 @@
 - Sometimes - 2
 - Often - 3
 - Always - 4
-
-## Indicators
