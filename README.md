@@ -1,5 +1,7 @@
 # Team Culture Map
 
+The team culture map helps to create a detailed profile of each participant to improve interactions and build strong teams.
+
 [Characteristics](#characteristics) | [Scale](#scale) | [Analysis](#analysis)
 
 ## Characteristics
@@ -12,12 +14,12 @@ Each characteristic includes 2 opposing statements: Left <-> Right.
 Low-context <-> High-context
 
 #### Low-context
-Good communication is precise, straightforward, and clear.  
+Good communication is precise, straightforward and clear.  
 Messages are conveyed and understood literally.  
 Repetition is welcomed if it helps clarify meaning.
 
 #### High-context
-Good communication is complex, nuanced, and layered.  
+Good communication is complex, nuanced and layered.  
 Messages are conveyed and understood between the lines.  
 The meaning is often implied but not explicitly stated.
 
@@ -25,15 +27,15 @@ The meaning is often implied but not explicitly stated.
 Direct Criticism <-> Indirect Criticism
 
 #### Direct Criticism
-Criticism is presented openly, directly, and honestly.  
+Criticism is presented openly, directly and honestly.  
 Critical remarks are stated as they are, without softening them with praise.  
-Intensifiers are often used ("completely inappropriate," "absolutely unprofessional").  
+Intensifiers are often used ("completely inappropriate", "absolutely unprofessional").  
 An individual may be criticized in front of a group.
 
 #### Indirect Criticism
-Criticism is presented gently, subtly, and diplomatically.  
+Criticism is presented gently, subtly and diplomatically.  
 Critical remarks are softened with praise.  
-Mitigating words are often used ("somewhat inappropriate," "to a certain extent unprofessional").  
+Mitigating words are often used ("somewhat inappropriate", "to a certain extent unprofessional").  
 Criticism is provided only in private.
 
 ### Persuasion
@@ -41,13 +43,13 @@ Principles First <-> Practice First
 
 #### Principles First
 Theory or complex concepts are introduced first,  
-followed by facts, statements, or opinions.  
+followed by facts, statements or opinions.  
 Messages or reports usually start with theoretical arguments,  
 from which conclusions are then drawn.  
 Conceptual principles underlying each situation are highly valued.
 
 #### Practice First
-Facts, statements, or opinions are presented first,  
+Facts, statements or opinions are presented first,  
 with supporting or explanatory concepts added as needed.  
 Messages or reports typically begin with an executive summary or key points.  
 Discussions are conducted in a specific, practical manner.  
@@ -87,7 +89,7 @@ You do your job well, you are reliable, I enjoy working with you.
 I trust you.
 
 #### Relationship-Based
-Trust is built through shared conversations, evening drinks, and coffee breaks.  
+Trust is built through shared conversations, evening drinkss and coffee breaks.  
 Working relationships are formed slowly and last a long time.  
 I deeply understand you, we spend time together, I know those who trust you well.  
 I trust you.
@@ -107,7 +109,7 @@ Open confrontation is unacceptable as it disrupts group harmony or negatively af
 Linear Time <-> Flexible Time
 
 #### Linear Time
-Projects are completed sequentially; one task is finished before starting another.  
+Projects are completed sequentially, one task is finished before starting another.  
 Tasks are completed one at a time. Interruptions are avoided.  
 Focus is on meeting deadlines and adhering to schedules.  
 Efficiency and organization are valued over flexibility.
