@@ -135,6 +135,11 @@ Focus is on adaptability, with flexibility valued over strict organization.
 
 ## Analysis
 
-To obtain a score of each characteristic, the average value of its statements is calculated.  
-For better visualization, the scores for all characteristics
-of all participants can be displayed on a shared chart.
+To obtain a score of each characteristic, the average
+value of its statements is calculated.  
+
+Participant profiles can be visualized using baseball
+cards displaying their characteristics.
+
+To compare the scores of all characteristics across participants,
+the data can be displayed on a shared graph.
