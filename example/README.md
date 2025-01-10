@@ -4,7 +4,7 @@
 
 Hello! There is a Team Culture Map Survey below.
 
-Please choose an option on a scale.
+Please choose an option for each statement.
 
 1. Good communication is precise, straightforward, and clear.  
    Messages are conveyed and understood literally.  
