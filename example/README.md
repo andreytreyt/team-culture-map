@@ -6,7 +6,7 @@ Hello! There is a Team Culture Map Survey below.
 
 Please choose an option for each statement.
 
-1. Good communication is precise, straightforward and clear. Messages are conveyed and understood literally. Repetition is welcomed if it helps clarify meaning.
+1. Good communication is precise, simple, and clear. Messages are expressed and understood at face value. Repetition is appreciated if it helps clarify the communication.
 ```
 Choose the option
 - Never
@@ -16,7 +16,7 @@ Choose the option
 - Always
 ```
 
-2. Criticism is presented gently, subtly and diplomatically. Critical remarks are softened with praise. Mitigating words are often used ("somewhat inappropriate", "to a certain extent unprofessional"). Criticism is provided only in private.
+2. Negative feedback to a colleague is provided softly, subtly, diplomatically. Positive messages are used to wrap negative ones. Qualifying descriptors are often used (soft of inappropriate, slightly unprofessional) when criticizing. Criticism is given only in private.
 ```
 Choose the option
 - Never
@@ -26,7 +26,7 @@ Choose the option
 - Always
 ```
 
-3. Theory or complex concepts are introduced first, followed by facts, statements, or opinions. Messages or reports usually start with theoretical arguments, from which conclusions are then drawn. Conceptual principles underlying each situation are highly valued.
+3. Individuals are trained to begin with a fact, statement, or opinion and later add concepts to back up or explain the conclusion as necessary. The preference is to begin a message or report with an executive summary or bullet points. Discussions are approached in a practical, concrete manner. Theoretical or philosophical discussions are avoided in a business environment.
 ```
 Choose the option
 - Never
@@ -36,7 +36,7 @@ Choose the option
 - Always
 ```
 
-4. There is a large gap between the leader and subordinates. The best leader is a strong director who leads the way. Status is important. Organizational structures are multilayered and fixed. Communication follows established hierarchical levels.
+4. The ideal distance between a boss and a subordinate is high. The best boss is a strong director who leads from the front. Status is important. Organizational structures are multilayered and fixed. Communication follows set hierarchical lines.
 ```
 Choose the option
 - Never
@@ -46,7 +46,7 @@ Choose the option
 - Always
 ```
 
-5. Good communication is complex, nuanced and layered. Messages are conveyed and understood between the lines. The meaning is often implied but not explicitly stated.
+5. Good communication is sophisticated, nuanced, and layered. Messages are both spoken and read between the lines. Messages are often implied but not plainly expressed.
 ```
 Choose the option
 - Never
@@ -56,7 +56,7 @@ Choose the option
 - Always
 ```
 
-6. Criticism is presented openly, directly and honestly. Critical remarks are stated as they are, without softening them with praise. Intensifiers are often used ("completely inappropriate", "absolutely unprofessional"). An individual may be criticized in front of a group.
+6. Negative feedback to a colleague is provided frankly, bluntly, honestly. Negative messages stand alone, not softened by position ones. Absolute descriptors are often used (totally inappropriate, completely unprofessional) when criticizing. Criticism may be given to an individual in front of a group.
 ```
 Choose the option
 - Never
@@ -66,7 +66,7 @@ Choose the option
 - Always
 ```
 
-7. Facts, statements or opinions are presented first, with supporting or explanatory concepts added as needed. Messages or reports typically begin with an executive summary or key points. Discussions are conducted in a specific, practical manner. Theoretical or philosophical discussions are avoided.
+7. Individuals have been trained to first develop the theory or complex concept before presenting a fact, statement, or opinion. The preference is to begin a message or report by building up a theoretical argument before moving on to a conclusion. The conceptual principles underlying each situation are valued.
 ```
 Choose the option
 - Never
@@ -76,7 +76,7 @@ Choose the option
 - Always
 ```
 
-8. There is a small gap between the leader and subordinates. The best leader is a coordinator among equals. Organizational structures are flat. Communication often happens without regard to hierarchical levels.
+8. The ideal distance between a boss and a subordinate is low. The best boss is a facilitator among equals. Organizational structures are flat. Communication often skips hierarchical lines.
 ```
 Choose the option
 - Never
@@ -86,7 +86,7 @@ Choose the option
 - Always
 ```
 
-9. Decisions are made collectively, through mutual agreement.
+9. Decisions are made in groups through unanimous agreement.
 ```
 Choose the option
 - Never
@@ -96,7 +96,7 @@ Choose the option
 - Always
 ```
 
-10. Trust is built through shared conversations, evening drinks and coffee breaks. Working relationships are formed slowly and last a long time. I deeply understand you, we spend time together, I know those who trust you well. I trust you.
+10. Trust is built through sharing meals, evening drinks, and visits at the coffee machine. Work relationships build up slowly over the long term. I've seen who you are at a deep level, I've shared personal time with you, I know others well who trust you, I trust you.
 ```
 Choose the option
 - Never
@@ -106,7 +106,7 @@ Choose the option
 - Always
 ```
 
-11. Disagreement and debate are good for the team and organization. Open confrontation is acceptable and does not negatively affect relationships.
+11. Disagreement and debate are positive for the team or organization. Open confrontation is appropriate and will not negatively impact the relationship.
 ```
 Choose the option
 - Never
@@ -116,7 +116,7 @@ Choose the option
 - Always
 ```
 
-12. Projects are completed flexibly, and tasks shift as new opportunities arise. Many activities are handled simultaneously, and interruptions are allowed. Focus is on adaptability, with flexibility valued over strict organization.
+12. Project steps are approached in a fluid manner, changing tasks as opportunities arise. Many things are dealt with at once and interruptions accepted. The focus is on adaptability, and flexibility is valued over organization.
 ```
 Choose the option
 - Never
@@ -126,7 +126,7 @@ Choose the option
 - Always
 ```
 
-13. Decisions are made by individuals (typically leaders).
+13. Decisions are made by individuals (usually the boss).
 ```
 Choose the option
 - Never
@@ -136,7 +136,7 @@ Choose the option
 - Always
 ```
 
-14. Trust is built through professional activity. Working relationships are easily formed and dissolved depending on the situation. You do your job well, you are reliable, I enjoy working with you. I trust you.
+14. Trust is built through business-related activities. Work relationships are built and dropped easily, based on the practicality of the situation. You do good work consistently, you are reliable, I enjoy working with you, I trust you.
 ```
 Choose the option
 - Never
@@ -146,7 +146,7 @@ Choose the option
 - Always
 ```
 
-15. Disagreement and debate are bad for the team and organization. Open confrontation is unacceptable as it disrupts group harmony or negatively affects relationships.
+15. Disagreement and debate are negative for the team or organization. Open confrontation is inappropriate and will break group harmony or negatively impact the relationship.
 ```
 Choose the option
 - Never
@@ -156,7 +156,7 @@ Choose the option
 - Always
 ```
 
-16. Projects are completed sequentially, one task is finished before starting another. Tasks are completed one at a time. Interruptions are avoided. Focus is on meeting deadlines and adhering to schedules. Efficiency and organization are valued over flexibility.
+16. Project steps are approached in a sequential fashion, completing one task before beginning the next. One thing at a time. No interruptions. The focus is on the deadline and sticking to the schedule. Emphasis is on promptness and good organization over flexibility.
 ```
 Choose the option
 - Never
@@ -168,13 +168,13 @@ Choose the option
 
 ## Results
 
-|                 | Score |
-|:----------------|:-----:|
-| Communication   |   3   |
-| Evaluation      |   0   |
-| Persuading      |   2   |
-| Leading         |  3.5  |
-| Decision-making |   4   |
-| Trust           |  2.5  |
-| Disagreement    |   1   |
-| Scheduling      |   3   |
+|               | Score |
+|:--------------|:-----:|
+| Communicating |   3   |
+| Evaluation    |   0   |
+| Persuading    |   2   |
+| Leading       |  3.5  |
+| Deciding      |   4   |
+| Trusting      |  2.5  |
+| Disagreeing   |   1   |
+| Scheduling    |   3   |
