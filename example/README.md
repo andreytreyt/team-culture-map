@@ -171,10 +171,10 @@ Choose the option
 |                 | Score |
 |:----------------|:-----:|
 | Communication   |   3   |
-| Criticism       |   0   |
-| Persuasion      |   2   |
-| Leadership      |  3.5  |
-| Decision-Making |   4   |
+| Evaluation      |   0   |
+| Persuading      |   2   |
+| Leading         |  3.5  |
+| Decision-making |   4   |
 | Trust           |  2.5  |
 | Disagreement    |   1   |
-| Time Management |   3   |
+| Scheduling      |   3   |
