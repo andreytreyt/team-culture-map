@@ -2,6 +2,8 @@
 
 The team culture map helps to create a detailed profile of each participant to improve interactions and build strong teams.
 
+Inspired by Erin Meyer's book The Culture Map: Breaking Through the Invisible Boundaries of Global Business.
+
 [Characteristics](#characteristics) | [Scale](#scale) | [Analysis](#analysis)
 
 ## Characteristics
