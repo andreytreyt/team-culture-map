@@ -170,11 +170,11 @@ Choose the option
 
 |               | Score |
 |:--------------|:-----:|
-| Communicating |   3   |
-| Evaluation    |   0   |
-| Persuading    |   2   |
-| Leading       |  3.5  |
-| Deciding      |   4   |
+| Communicating |   1   |
+| Evaluation    |  3.5  |
+| Persuading    |  1.5  |
+| Leading       |   2   |
+| Deciding      |  1.5  |
 | Trusting      |  2.5  |
 | Disagreeing   |   1   |
-| Scheduling    |   3   |
+| Scheduling    |   2   |

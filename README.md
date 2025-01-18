@@ -87,22 +87,22 @@ Project steps are approached in a fluid manner, changing tasks as opportunities 
 ## Scale
 
 ### Left statement
-- Never - 0
-- Rarely - 1
-- Sometimes - 2
-- Often - 3
-- Always - 4
-
-### Right statement
 - Never - 4
 - Rarely - 3
 - Sometimes - 2
 - Often - 1
 - Always - 0
 
+### Right statement
+- Never - 0
+- Rarely - 1
+- Sometimes - 2
+- Often - 3
+- Always - 4
+
 ## Analysis
 
-To obtain a score of each characteristic, the average value of its statements is calculated.  
+To obtain a score of each characteristic of a participant, the average value of its statements is calculated. The score shows a position of the participant on the scale from 0 (left statement) to 4 (right statement).
 
 Participant profiles can be visualized using baseball cards displaying their characteristics.
 
