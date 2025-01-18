@@ -4,7 +4,7 @@
 
 Hello! There is a Team Culture Map Survey below.
 
-Please choose an option for each statement.
+Please choose an option for each statement that best suits for your work style.
 
 1. Good communication is precise, simple, and clear. Messages are expressed and understood at face value. Repetition is appreciated if it helps clarify the communication.
 ```
